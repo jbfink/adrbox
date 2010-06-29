@@ -1,5 +1,5 @@
 module Adrbox
-def rochambo(userchoice, computerchoice)
+def Adrbox.rochambo(userchoice, computerchoice)
 losemessage = "You lose!"
 winmessage = "You win!"
 tiemessage = "You tie!"
